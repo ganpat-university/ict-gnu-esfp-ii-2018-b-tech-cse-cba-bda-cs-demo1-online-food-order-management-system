@@ -1,0 +1,22 @@
+Online Food order Management System
+
+An Online Food Management system is a system where all the details of the food orders
+like order_id, order_product, order_location, order_serving, order_person_name,
+contact_no, order_delivery_time, order_category, delivery_type(hand picked / deliver
+by delivery agent). Here a small part of implementation has to be done which are as:-
+Create a class called online_food__mgmt with above attributes and store the database
+for 25 orders.
+
+Specific task Group Member-1
+1. Display all the orders which belong to category of ‘Veg’
+2. Display all the orders which are from Akbari gate location and order product is pizza.
+3. Display all the orders which are to be hand picked.
+
+Specific task Group Member-2
+4. Display all the orders whose serving is less than 5 and are to be delivered by the delivery agent.
+5. Display all the orders which are to be delivered to ‘Mr Sohan’.
+6. Display all the orders whose product contains word ‘cheese’.
+
+Specific task Group Member-3
+7. Display all the orders whose product contains ‘Extra spicy’ and are to be delivered to ‘Ganpat University’
+8. Display all the orders as per order category ‘Veg and ‘Non Veg’
